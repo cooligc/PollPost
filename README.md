@@ -1,5 +1,5 @@
 Poll Post App 
-~~~~~~~~~~~~~~~~~
+--
 
 This is a Social Networking Application.
 Used Technology : Spring , Mongo DB , Thymeleaf
