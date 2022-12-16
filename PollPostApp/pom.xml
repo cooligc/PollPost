@@ -8,7 +8,7 @@
 	<name>PollPostApp </name>
 	<description>PollPostApp</description>
 	<properties>
-		<spring.version>3.2.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<thymeleaf.version>2.1.2.RELEASE</thymeleaf.version>
 		<thymeleaf.spring.version>2.1.2.RELEASE</thymeleaf.spring.version>
 		<mongo.version>2.10.1</mongo.version>
